@@ -61,5 +61,4 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saramabrouk&show_icons=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saramabrouk" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saramabrouk&layout=compact" />
 </p>
