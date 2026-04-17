@@ -16,8 +16,15 @@
 ---
 
 ### 🛠️ Projects
-- 🌱 Smart Farming Database Management System  
-  → Designed ERD and built SQL database, currently developing a Python GUI  
+
+- 🎙️ Episode Scheduler (Java)  
+  → Developed a scheduling application to manage podcast episodes and timing  
+
+- 🌐 Personal Website  
+  → Designed and built an offline website using HTML, CSS, and JavaScript  
+
+- 🌱 Smart Farming Database Management System (In Progress)  
+  → Designed ERD and implemented SQL database, currently developing a Python GUI   
 
 ---
 
@@ -25,7 +32,7 @@
 - Python for Data Analysis (Pandas, NumPy)
 - SQL (Joins, Queries, Database Design)
 - Power BI (Dashboards and Data Visualization)
-- Cybersecurity Basics (ADBI Certificate)
+- Cybersecurity Fundamentals
 
 ---
 
