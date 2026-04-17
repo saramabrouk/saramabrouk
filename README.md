@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Beginner in Data Analysis & Cybersecurity</h3>
 
 <p align="center">
-💡 Passionate about turning data into insights | 📊 SQL • Python • Power BI
+💡 Passionate about turning data into insights | 📊 SQL - Python - Power BI
 </p>
 
 ---
@@ -17,13 +17,13 @@
 
 ### 🛠️ Projects
 
-- 🎙️ Episode Scheduler (Java)  
+- Episode Scheduler (Java)  
   → Developed a scheduling application to manage podcast episodes and timing  
 
-- 🌐 Personal Website  
+- Shopping Website  
   → Designed and built an offline website using HTML, CSS, and JavaScript  
 
-- 🌱 Smart Farming Database Management System (In Progress)  
+- Smart Farming Database Management System (In Progress)  
   → Designed ERD and implemented SQL database, currently developing a Python GUI   
 
 ---
