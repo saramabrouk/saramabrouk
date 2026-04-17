@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Mabrouk</h1>
-<h3 align="center">Computer Engineering Student | Aspiring Data Analyst & IT Specialist</h3>
-
+<h3 align="center">Beginner in Data Analysis & Cybersecurity | Computer Engineering Student</h3>
 <p align="center">
 💡 Passionate about turning data into insights | 📊 SQL • Python • Power BI  
 </p>
