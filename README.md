@@ -1,31 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sara Mabrouk</h1>
-<h3 align="center">Beginner in Data Analysis & Cybersecurity | Computer Engineering Student</h3>
+<h3 align="center">Computer Engineering Student | Beginner in Data Analysis & Cybersecurity</h3>
+
 <p align="center">
-💡 Passionate about turning data into insights | 📊 SQL • Python • Power BI  
+💡 Passionate about turning data into insights | 📊 SQL • Python • Power BI
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Computer Engineering student
-- 📊 Interested in **Data Analysis, Business Intelligence, and IT Systems**
-- 🔐 Currently exploring **Cybersecurity Fundamentals**
+- 📊 Interested in Data Analysis, Business Intelligence, and IT Systems
+- 🔐 Currently exploring Cybersecurity Fundamentals
 - 🧠 Always learning and building practical projects
 
 ---
 
 ### 🛠️ Projects
-- 🌱 **Smart Farming Database System**  
-  → Designed ERD and built SQL database + developing Python GUI  
-
-*(Add more projects here later — very important)*
+- 🌱 Smart Farming Database Management System  
+  → Designed ERD and built SQL database, currently developing a Python GUI  
 
 ---
 
 ### 🌱 Currently Learning
 - Python for Data Analysis (Pandas, NumPy)
 - SQL (Joins, Queries, Database Design)
-- Power BI (Dashboards & Data Visualization)
+- Power BI (Dashboards and Data Visualization)
 - Cybersecurity Basics (ADBI Certificate)
 
 ---
@@ -38,12 +37,12 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **saramabrouk008@gmail.com**
-- 💼 LinkedIn: *(add your correct link here)*
+- 📧 Email: saramabrouk008@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/saramabrouk
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Languages and Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,java,cpp" />
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
