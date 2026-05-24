@@ -21,10 +21,13 @@
   → Developed a scheduling application to manage podcast episodes and timing  
 
 - Shopping Website  
-  → Designed and built an offline website using HTML, CSS, and JavaScript  
+  → Designed and built an offline website using HTML, CSS, and JavaScript
+  
+- Smart Wheelchair Embedded System
+  → Currently Developing an embedded system for Smart Wheelchair that uses sensors and embedded technologies. 
 
 - Smart Farming Database Management System (In Progress)  
-  → Designed ERD and implemented SQL database, currently developing a Python GUI   
+  → Designed ERD and implemented SQL database, currently developing a Python GUI
 
 ---
 
