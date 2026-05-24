@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🎓 Computer Engineering student
-- 📊 Interested in Data Analysis, Business Intelligence, and IT Systems
+- 📊 Interested in Data Analysis, Business Intelligence, and IoT Systems
 - 🔐 Currently exploring Cybersecurity Fundamentals
 - 🧠 Always learning and building practical projects
 
@@ -24,7 +24,7 @@
   → Designed and built an offline website using HTML, CSS, and JavaScript
   
 - Smart Wheelchair Embedded System
-  → Currently Developing an embedded system for Smart Wheelchair that uses sensors and embedded technologies. 
+   → Currently Developing an embedded system for Smart Wheelchair that uses sensors and embedded technologies.
 
 - Smart Farming Database Management System (In Progress)  
   → Designed ERD and implemented SQL database, currently developing a Python GUI
