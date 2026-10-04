@@ -50,18 +50,4 @@
 - 📧 Email: saramabrouk008@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/saramabrouk
 
----
 
-### 🧰 Languages and Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,java,cpp" />
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saramabrouk&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saramabrouk" />
-</p>
